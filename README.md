@@ -1,6 +1,6 @@
 # Women Safety Application
 
-![App Logo](assets/logo.png)
+![App Logo](logo.png)
 
 ## Introduction
 
