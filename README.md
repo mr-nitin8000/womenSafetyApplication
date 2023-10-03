@@ -1,16 +1,16 @@
-# proui
+# Women Safety Application
 
-A new Flutter project.
+![App Logo](assets/logo.png)
+
+## Introduction
+
+The Women Safety Application is a mobile app developed using Flutter that focuses on ensuring the safety of women by providing a set of essential features and functionalities.
+
+## Features
+
+- **Emergency SOS:** Allows users to send emergency alerts to predefined contacts with their current location.
+- **Location Tracking:** Provides real-time location tracking and sharing options.
+- **Quick Dial:** Allows users to quickly call emergency helplines and contacts.
+- **Safety Tips:** Offers valuable safety tips and guidelines.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
