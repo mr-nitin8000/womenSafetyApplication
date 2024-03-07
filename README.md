@@ -1,5 +1,10 @@
+<div align="center">
+<img src="intro/kavach.jpg" height="300">
 # Women Safety Application
 
+## Demo Application
+
+<img src="intro/introGif.gif" height="600">
 
 ## Introduction
 
@@ -13,3 +18,5 @@ The Women Safety Application is a mobile app developed using Flutter that focuse
 - **Safety Tips:** Offers valuable safety tips and guidelines.
 
 ## Getting Started
+
+</div>
