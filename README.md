@@ -1,9 +1,10 @@
 <div align="center">
 <img src="intro/kavach1.jpg" height="300">
 </br>
-## Women Safety Application
+  <h1>Women Safety Application</h1>
 
-## Demo Application
+
+## Demo of Application
 
 <img src="intro/introGif.gif" height="600">
 
